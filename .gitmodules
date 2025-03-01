@@ -1,0 +1,9 @@
+[submodule "gale_shapley"]
+	path = gale_shapley
+	url = https://github.com/KehaoXu/gale_shapley.git
+[submodule "security_strategy_files"]
+	path = security_strategy_files
+	url = https://github.com/KehaoXu/security_strategy_files.git
+[submodule "iterated_elimination_files"]
+	path = iterated_elimination_files
+	url = https://github.com/KehaoXu/iterated_elimination_files.git
