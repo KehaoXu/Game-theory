@@ -7,3 +7,6 @@
 [submodule "iterated_elimination_files"]
 	path = iterated_elimination_files
 	url = https://github.com/KehaoXu/iterated_elimination_files.git
+[submodule "regret-matching---fictitious-play"]
+	path = regret-matching---fictitious-play
+	url = https://github.com/KehaoXu/regret-matching---fictitious-play.git
